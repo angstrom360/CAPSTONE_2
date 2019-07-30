@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin-API/Admin-API.iml" filepath="$PROJECT_DIR$/Admin-API/Admin-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CAPSTONE_2.iml" filepath="$PROJECT_DIR$/.idea/CAPSTONE_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer/Customer.iml" filepath="$PROJECT_DIR$/Customer/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ghazi-Muhammad-cloud-config-server/Ghazi-Muhammad-cloud-config-server.iml" filepath="$PROJECT_DIR$/Ghazi-Muhammad-cloud-config-server/Ghazi-Muhammad-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ghazi-Muhammad-cloud-service-registry/Ghazi-Muhammad-cloud-service-registry.iml" filepath="$PROJECT_DIR$/Ghazi-Muhammad-cloud-service-registry/Ghazi-Muhammad-cloud-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory/Inventory.iml" filepath="$PROJECT_DIR$/Inventory/Inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invoice/Invoice.iml" filepath="$PROJECT_DIR$/Invoice/Invoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LevelUp/LevelUp.iml" filepath="$PROJECT_DIR$/LevelUp/LevelUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LevelUpQueueConsumer/LevelUpQueueConsumer.iml" filepath="$PROJECT_DIR$/LevelUpQueueConsumer/LevelUpQueueConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retail-store/retail-store.iml" filepath="$PROJECT_DIR$/retail-store/retail-store.iml" />
+    </modules>
+  </component>
+</project>

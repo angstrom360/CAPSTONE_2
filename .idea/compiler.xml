@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Admin-API" />
+        <module name="product" />
+        <module name="retail-store" />
+        <module name="Invoice" />
+        <module name="Inventory" />
+        <module name="Ghazi-Muhammad-cloud-config-server" />
+        <module name="Customer" />
+        <module name="LevelUpQueueConsumer" />
+        <module name="Ghazi-Muhammad-cloud-service-registry" />
+        <module name="LevelUp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Admin-API" target="1.8" />
+      <module name="Customer" target="1.8" />
+      <module name="Ghazi-Muhammad-cloud-config-server" target="1.8" />
+      <module name="Ghazi-Muhammad-cloud-service-registry" target="1.8" />
+      <module name="Inventory" target="1.8" />
+      <module name="Invoice" target="1.8" />
+      <module name="LevelUp" target="1.8" />
+      <module name="LevelUpQueueConsumer" target="1.8" />
+      <module name="product" target="1.8" />
+      <module name="retail" target="1.8" />
+      <module name="retail-store" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Admin-API" options="-parameters" />
+      <module name="Customer" options="-parameters" />
+      <module name="Ghazi-Muhammad-cloud-config-server" options="-parameters" />
+      <module name="Ghazi-Muhammad-cloud-service-registry" options="-parameters" />
+      <module name="Inventory" options="-parameters" />
+      <module name="Invoice" options="-parameters" />
+      <module name="LevelUp" options="-parameters" />
+      <module name="LevelUpQueueConsumer" options="-parameters" />
+      <module name="product" options="-parameters" />
+      <module name="retail" options="-parameters" />
+      <module name="retail-store" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Admin-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ghazi-Muhammad-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ghazi-Muhammad-cloud-service-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inventory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Invoice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LevelUp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LevelUpQueueConsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retail-store" charset="UTF-8" />
+  </component>
+</project>

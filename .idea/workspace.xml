@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="522a30d5-2103-4d16-bbea-798f3aef7d50" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/Ghazi-Muhammad-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/Ghazi-Muhammad-cloud-service-registry/target/" />
+    <ignored path="$PROJECT_DIR$/Inventory/target/" />
+    <ignored path="$PROJECT_DIR$/Invoice/target/" />
+    <ignored path="$PROJECT_DIR$/LevelUp/target/" />
+    <ignored path="$PROJECT_DIR$/product/target/" />
+    <ignored path="$PROJECT_DIR$/Customer/target/" />
+    <ignored path="$PROJECT_DIR$/retail/target/" />
+    <ignored path="$PROJECT_DIR$/retail-store/target/" />
+    <ignored path="$PROJECT_DIR$/LevelUpQueueConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/Admin-API/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CAPSTONE_2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/controller/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2304">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inventory/src/main/java/com/trilogyed/Inventory/servicelayer/InventoryServiceLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inventory/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/serviceLayer/RetailServiceLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1113">
+              <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/controller/RetailInvoiceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3444">
+              <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/controller/SecureAppController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/sercurity/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="33" column="44" lean-forward="true" selection-start-line="32" selection-start-column="91" selection-end-line="33" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>COMMENT</find>
+      <find>CommentViewModel</find>
+      <find>commentViewModel</find>
+      <find>comment</find>
+      <find>Comment</find>
+      <find>Customer</find>
+      <find>CUSTOMER</find>
+      <find>customer</find>
+      <find>PRODUCT</find>
+      <find>INVENTORY</find>
+      <find>Product</find>
+      <find>product</find>
+      <find>InvoiceItem</find>
+      <find>invoiceItem</find>
+      <find>inventory</find>
+      <find>Inventory</find>
+      <find>Post</find>
+      <find>getId</find>
+      <find>setId</find>
+      <find>s</find>
+      <find>CustomerViewModel</find>
+      <find>public</find>
+      <find>hys</find>
+      <find>pointsApi</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/viewmodel/InventoryViewModel.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/model/LevelUp.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/model/Customer.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/util/feign/CustomerApi.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/controller/ControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/controller/ControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/dao/LevelUpDaoJdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/test/java/com/trilogyed/LevelUp/servicelayer/LevelUpServicveLayerTest.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/util/feign/LevelUpApi.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/controller/GameStoreController.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/serviceLayer/RetailServiceLayer.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/RetailApplication.java" />
+        <option value="$PROJECT_DIR$/retail/src/main/java/com/trilogyed/retail/GameStoreApplication.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/CustomerApi.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/InvoiceApi.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/viewmodel/InventoryViewModel.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/Invoice.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/InvoiceItem.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/InventoryApi.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/Product.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/trilogyed/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/model/LevelUp.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/model/LevelUp.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/util/feign/LevelUpApi.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/LevelUpListener.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/exception/NotFoundException.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/controller/ControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/LevelUpQueueConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/LevelUp/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/dao/LevelUpDao.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/RetailStoreApplication.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/servicelayer/LevelUpServiceLayer.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/ProductApi.java" />
+        <option value="$PROJECT_DIR$/retail-store/pom.xml" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/LevelUp.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/controller/GameStoreController.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/PointsApi.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/LevelUpApi.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/controller/LevelUpController.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/serviceLayer/RetailServiceLayer.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/LevelUpFallBack.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/CustomerServiceClient.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/InventoryServiceClient.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/InvoiceServiceClient.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/LevelUpServiceClient.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/ProductServiceClient.java" />
+        <option value="$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/sercurity/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1270" />
+    <option name="width" value="1301" />
+    <option name="height" value="1391" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+              <item name="retail-store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+              <item name="retail-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+              <item name="retail-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+              <item name="retail-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CAPSTONE_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CAPSTONE_2" type="462c0819:PsiDirectoryNode" />
+              <item name="retail-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="retailstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Dropbox/Angstrom/Java Bootcamp/Ghazi's Work" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Spring Stuff\CLOUD\CAPSTONE_2\retail-store\src\main\resources" />
+      <recent name="D:\IdeaProjects\Spring Stuff\CLOUD\CAPSTONE_2\retail-store\src\main\java\com\trilogy\retailstore" />
+      <recent name="D:\IdeaProjects\Spring Stuff\CLOUD\CAPSTONE_2\Customer\src\test" />
+      <recent name="D:\IdeaProjects\Spring Stuff\CLOUD\CAPSTONE_2\Inventory\src\test" />
+      <recent name="D:\IdeaProjects\Spring Stuff\CLOUD\CAPSTONE_2\Invoice\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.27985305" />
+  </component>
+  <component name="RunManager" selected="JUnit.RetailServiceLayerTest">
+    <configuration name="All in Invoice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Invoice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Invoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.Invoice.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.Invoice.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.Invoice.dao.InvoiceDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceItemDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Invoice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.Invoice.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.Invoice.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.Invoice.dao.InvoiceItemDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetailServiceLayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retail-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogy.retailstore.servicelayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogy.retailstore.servicelayer" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogy.retailstore.servicelayer.RetailServiceLayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Admin-API" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.AdminAPI.AdminApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.Customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="retail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.retail.GameStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GhaziMuhammadCloudServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Ghazi-Muhammad-cloud-service-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.GhaziMuhammadcloudserviceregistry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.GhaziMuhammadcloudserviceregistry.GhaziMuhammadCloudServiceRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Inventory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.Inventory.InventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Invoice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.Invoice.InvoiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelUpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LevelUp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.LevelUp.LevelUpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelUpQueueConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LevelUpQueueConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogy.LevelUpQueueConsumer.LevelUpQueueConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogyed.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetailStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="retail-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trilogy.retailstore.RetailStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RetailServiceLayerTest" />
+        <item itemvalue="Spring Boot.GhaziMuhammadCloudServiceRegistryApplication" />
+        <item itemvalue="JUnit.InvoiceItemDaoTest" />
+        <item itemvalue="JUnit.InvoiceDaoTest" />
+        <item itemvalue="JUnit.All in Invoice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="522a30d5-2103-4d16-bbea-798f3aef7d50" name="Default Changelist" comment="" />
+      <created>1564065392992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564065392992</updated>
+      <workItem from="1564065394507" duration="18033000" />
+      <workItem from="1564102802204" duration="107108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RetailServiceLayerTest - 2019.07.28 at 16h 21m 28s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.28 at 16h 23m 35s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.28 at 16h 23m 40s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.28 at 16h 24m 05s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Invoice - 2019.07.28 at 16h 44m 46s.xml">
+      <configuration name="All in Invoice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvoiceDaoTest - 2019.07.28 at 17h 33m 22s.xml">
+      <configuration name="InvoiceDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvoiceItemDaoTest - 2019.07.28 at 17h 33m 42s.xml">
+      <configuration name="InvoiceItemDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.29 at 15h 21m 32s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.29 at 15h 24m 47s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetailServiceLayerTest - 2019.07.29 at 19h 48m 15s.xml">
+      <configuration name="RetailServiceLayerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125141000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22335942" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.51425034" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" weight="0.32992172" />
+      <window_info id="Learn" order="8" />
+      <window_info id="Web" order="9" side_tool="true" weight="0.32992172" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33872977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3648817" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.39227894" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3883203" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.51425034" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" weight="0.32992172" />
+      <window_info id="Learn" order="8" />
+      <window_info id="Web" order="9" side_tool="true" weight="0.32992172" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33872977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49315068" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.7708593" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>286</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>362</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.id</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fromService.invoiceItems.get(0).id</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/LevelUpListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/model/LevelUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/model/LevelUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUpQueueConsumer/src/main/java/com/trilogy/LevelUpQueueConsumer/util/feign/LevelUpApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" selection-start-column="64" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/test/java/com/trilogyed/Invoice/dao/InvoiceDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/test/java/com/trilogyed/Invoice/dao/InvoiceItemDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/dao/InvoiceDaoJdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-631">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <element signature="e#1656#1657#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/dao/InvoiceItemDaoJdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1385">
+          <caret line="110" column="65" selection-start-line="110" selection-start-column="65" selection-end-line="110" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/controller/InvoiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/dao/LevelUpDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/ProductApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/LevelUpApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/LevelUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/InvoiceItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1784#1785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/servicelayer/RetailInvoiceServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/viewmodel/InvoiceItemViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/viewmodel/InvoiceViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/viewmodel/RetailInvoiceViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/model/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/viewmodel/InventoryViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/servicelayer/InvoiceServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="141" column="36" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/RetailStoreApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/LevelUpFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/PointsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/LevelUpApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/servicelayer/LevelUpServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/main/java/com/trilogyed/LevelUp/controller/LevelUpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/controller/GameStoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/feign/InvoiceApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/controller/ExceptionHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inventory/src/main/java/com/trilogyed/Inventory/controller/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/CustomerServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/InventoryServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/InvoiceServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/LevelUpServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/util/ProductServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/controller/SecureAppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/sercurity/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="32" selection-start-column="91" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-API/src/main/java/com/trilogyed/AdminAPI/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2304">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inventory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inventory/src/main/java/com/trilogyed/Inventory/servicelayer/InventoryServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inventory/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/main/java/com/trilogy/retailstore/serviceLayer/RetailServiceLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1113">
+          <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Invoice/src/main/java/com/trilogyed/Invoice/controller/RetailInvoiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail-store/src/test/java/com/trilogy/retailstore/servicelayer/RetailServiceLayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3444">
+          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>product</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

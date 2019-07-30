@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Ghazi-Muhammad-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Ghazi-Muhammad-cloud-service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/Inventory/pom.xml" />
+        <option value="$PROJECT_DIR$/Invoice/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelUp/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/Customer/pom.xml" />
+        <option value="$PROJECT_DIR$/retail-store/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelUpQueueConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Admin-API/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
